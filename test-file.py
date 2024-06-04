@@ -37,7 +37,7 @@ def main():
     now = datetime.datetime.now()
     print(f"Current date and time: {now}")
 
-    # print("Script finished.")
+    print("Script done.")
 
 # Run main if the script is run directly
 if __name__ == "__main__":
